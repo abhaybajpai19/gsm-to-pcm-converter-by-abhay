@@ -1,0 +1,7 @@
+ffmpeg
+streamlit
+pydub
+requests
+pandas
+openpyxl
+ffprobe
