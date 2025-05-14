@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 streamlit
 pydub
 requests
 pandas
+=======
+streamlit
+pydub
+requests
+pandas
+>>>>>>> 4a50e8a0361d70fb48d85e7aee86bc451fdfb500
 openpyxl
