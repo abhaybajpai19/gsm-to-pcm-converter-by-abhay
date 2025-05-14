@@ -1,3 +1,5 @@
 streamlit
 pydub
 requests
+pandas
+openpyxl
